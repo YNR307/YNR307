@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Narasimha Reddy.
 - 👀 I’m interested in being a Data Analyst.
-- 🌱 I’m currently learning Microsoft Excel, Power BI and SQL
+- 🌱 I’m proficient in Microsoft Excel, Power BI and SQL
 - 📫 You can reach me here ynarasimha307@gmail.com
 
 <!---
